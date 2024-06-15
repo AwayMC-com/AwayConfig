@@ -9,7 +9,7 @@
   },
   "npc": {
     "welcomeText": {
-      "en": "Welcome on this server\nClick ME"
+      "%": "Welcome on this server\nClick ME"
     }
   }
 }
