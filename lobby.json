@@ -11,9 +11,9 @@
     "welcomeText": {
       "%": "Welcome on this server\nClick ME"
     }
-    "playBedwarsText": {
-      "ani": [103974854,103974854,103974854,103974854,103974854,103974854,1134376445],
-      "%": "AWAYMC BEDWARS\nClick ME to play"
-    }
+  },
+  "playBedwarsText": {
+    "ani": [103974854,103974854,103974854,103974854,103974854,103974854,1134376445],
+    "%": "AWAYMC BEDWARS\nClick ME to play"
   }
 }
