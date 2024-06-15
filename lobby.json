@@ -6,5 +6,10 @@
     "z": -18.5,
     "pitch": 90.0,
     "yaw": 0.0
+  },
+  "npc": {
+    "welcomeText": {
+      "en": "Welcome on this server\nClick ME"
+    }
   }
 }
