@@ -1,23 +1,39 @@
 {
-  "map": "main-lobby-0",
-  "spawn": {
-    "x": -46.5,
-    "y": 55.0,
-    "z": -18.5,
-    "pitch": 90.0,
-    "yaw": 0.0
-  },
-  "npc": {
-    "welcomeText": {
-      "%": "§e§lWelcome on §b§lAway§a§lM§6§lC§r§l!\n§r"
+    "map": "main-lobby-0",
+    "spawn": {
+        "x": -46.5,
+        "y": 55,
+        "z": -18.5,
+        "pitch": 90,
+        "yaw": 0
     },
-    "playBedwarsText": {
-      "ani": [1447432832,1447432832,2091958601,1447432832,1447432832,1447432832,1447432832],
-      "%": "§b§lAway§a§lM§6§lC §r§lBed§c§lWars\n§9§n§lCLICK TO PLAY\n§r"
-    },
-    "playSGText": {
-      "ani": [103974854,103974854,103974854,103974854,103974854,103974854,1134376445],
-      "%": "§b§lAway§a§lM§6§lC §e§lSurvivalGames\n§9§n§lCLICK TO PLAY\n§r"
+    "npc": {
+        "welcomeText": {
+            "%": "§e§lWelcome on §b§lAway§a§lM§6§lC§r§l!\n§r"
+        },
+        "playBedwarsText": {
+            "ani": [
+                1447432832,
+                1447432832,
+                2091958601,
+                1447432832,
+                1447432832,
+                1447432832,
+                1447432832
+            ],
+            "%": "§b§lAway§a§lM§6§lC §r§lBed§c§lWars\n§9§n§lCLICK TO PLAY\n§r"
+        },
+        "playSGText": {
+            "ani": [
+                103974854,
+                103974854,
+                103974854,
+                103974854,
+                103974854,
+                103974854,
+                1134376445
+            ],
+            "%": "§b§lAway§a§lM§6§lC §e§lSurvivalGames\n§9§n§lCLICK TO PLAY\n§r"
+        }
     }
-  }
 }
