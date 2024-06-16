@@ -1,7 +1,7 @@
 {
     "maps": {
       "0": {
-        "name": "battle_cove",
+        "name": "battle-cove",
         "w": [9.5, 31, -15.5],
         "maxY": 62,
         "daytime": 0,
@@ -28,7 +28,7 @@
         }
       },
       "1": {
-        "name": "battle_cavern",
+        "name": "battle-cavern",
         "w": [-3.5, 42, -3.5],
         "maxY": 80,
         "daytime": 0,
