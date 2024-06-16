@@ -9,11 +9,11 @@
   },
   "npc": {
     "welcomeText": {
-      "%": "&e&lWELCOME ON &b&lAway&a&lM&6&lC&r&l!\n"
+      "%": "§e§lWELCOME ON §b§lAway§a§lM§6§lC§r§l!\n§r"
     },
     "playBedwarsText": {
       "ani": [103974854,103974854,103974854,103974854,103974854,103974854,1134376445],
-      "%": "&b&lAway&a&lM&6&lC &r&lBed&c&lWars\n&9&n&lCLICK TO PLAY\n"
+      "%": "§b§lAway§a§lM§6§lC §r§lBed§c§lWars\n§9§n§lCLICK TO PLAY\n§r"
     }
   }
 }
