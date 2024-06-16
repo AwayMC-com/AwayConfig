@@ -9,11 +9,15 @@
   },
   "npc": {
     "welcomeText": {
-      "%": "§e§lWELCOME ON §b§lAway§a§lM§6§lC§r§l!\n§r"
+      "%": "§e§lWelcome on §b§lAway§a§lM§6§lC§r§l!\n§r"
     },
     "playBedwarsText": {
-      "ani": [103974854,103974854,103974854,103974854,103974854,103974854,1134376445],
+      "ani": [1447432832,1447432832,2091958601,1447432832,1447432832,1447432832,1447432832],
       "%": "§b§lAway§a§lM§6§lC §r§lBed§c§lWars\n§9§n§lCLICK TO PLAY\n§r"
+    }
+    "playSGText": {
+      "ani": [103974854,103974854,103974854,103974854,103974854,103974854,1134376445],
+      "%": "§b§lAway§a§lM§6§lC §e§lSurvivalGames\n§9§n§lCLICK TO PLAY\n§r"
     }
   }
 }
